@@ -12,6 +12,13 @@ console.log(result2);
 alert(-c - -d);
 
 
+let e = prompt("first number?");
+let f = prompt("second number");
+let result3 = e / f;
+console.log(result3);
+
+
+
 
 
 
