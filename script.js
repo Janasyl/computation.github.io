@@ -17,6 +17,12 @@ let f = prompt("second number");
 let result3 = e / f;
 console.log(result3);
 
+let g = prompt("first number?");
+let h = prompt("second number");
+let result4 = g * h;
+console.log(result4);
+
+
 
 
 
